@@ -8,9 +8,7 @@ members:
 - Anthony
 - Freddie
 
-<<<<<<< HEAD
-coach: Shirley
-=======
-coach: Raymond
->>>>>>> 5bafebc (Edit Pathers)
+coach: 
+- Shirley
+- Raymond
 
