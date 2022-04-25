@@ -1,6 +1,8 @@
 team: Tigers
 
-manager: Donal
+manager: 
+- Donal
+- Geprge
 
 members:
 - Linda
